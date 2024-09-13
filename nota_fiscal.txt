@@ -1,0 +1,6 @@
+Cliente: luca
+Produtos comprados:
+fuçinho de porco - 10 unidades - R$99.90
+Total da compra: R$94.91
+Desconto de 5% aplicado (Clube Mercadinho da Vila)
+Obrigada pela compra!
